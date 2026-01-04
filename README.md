@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Hi, I'm Sayad
 
-<!--
-**sayadasadova/sayadasadova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🌱 Div Academy
+🚀 Passionate about building clean, responsive, and user-friendly web interfaces
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages:** HTML, CSS, JavaScript  
+- **Frontend:** Responsive Design, Flexbox, Grid  
+- **Frameworks & Libraries:** Bootstrap, Tailwind CSS  
+- **Tools:** Git, GitHub, Vercel  
+- **Learning:** React, REST APIs
+
+---
+
+## 🌐 Live Projects
+- Portfolio: 
+
+---
+
+## 📈 GitHub Stats
+![Sayad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayadasadova&show_icons=true&theme=default)
+
+
+
+⭐ Feel free to explore my repositories and give feedback!
