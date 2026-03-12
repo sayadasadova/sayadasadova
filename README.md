@@ -10,7 +10,7 @@
 
 ```yaml
 Sayad Asadova
- Azerbaijan, Baku
+Azerbaijan, Baku
 
 
 ```
