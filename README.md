@@ -18,7 +18,7 @@
 
 <div align="center">
 
-## 💅 About Me
+##  About Me
 
 </div>
 
@@ -34,13 +34,13 @@ fun_fact: "My code is like my eyeliner — sharp, precise, and always on point �
 
 <div align="center">
 
-## 🌷 My Tech Stack
+##  My Tech Stack
 
-### 🎀 Frontend Magic
+###  Frontend Magic
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass&theme=light&perline=6" />
 
-### 🔧 Tools I Love
+###  Tools I Love
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light&perline=4" />
 
@@ -50,28 +50,14 @@ fun_fact: "My code is like my eyeliner — sharp, precise, and always on point �
 
 <div align="center">
 
-## ✨ Skill Breakdown
 
-</div>
-
-```
-HTML5      ████████████████████░   95% 🌸
-CSS3       ███████████████████░░   90% 💕
-JavaScript ████████████████░░░░░   80% ✨
-Bootstrap  ████████████████████░   95% 🎀
-Tailwind   ███████████████░░░░░░   75% 🌷
-SASS/SCSS  ██████████████░░░░░░░   70% 💜
-Git        █████████████████░░░░   85% 🌿
-GitHub     █████████████████████  100% 🐙
 ```
 
 ---
 
-<div align="center">
 
-## 📊 GitHub Stats
 
-</div>
+
 
 <div align="center">
 
