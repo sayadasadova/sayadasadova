@@ -24,10 +24,9 @@
 
 ```yaml
 name: "Sayad Asadova"
-location: "🌍 Azerbaijan, Baku"
-pronouns: "she/her"
-currently_learning: ["React"]
-fun_fact: "My code is like my eyeliner — sharp, precise, and always on point 💅"
+location: " Azerbaijan, Baku"
+
+
 ```
 
 ---
