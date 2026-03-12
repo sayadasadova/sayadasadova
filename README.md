@@ -134,13 +134,6 @@ GitHub     █████████████████████  100%
 
 ---
 
-<div align="center">
-
-## 🌺 Visitor Count
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=ff69b4&label=✨+VISITORS" />
-*thanks for stopping by! you're adorable 🌸*
-
-</div>
 
 <div align="center">
 
