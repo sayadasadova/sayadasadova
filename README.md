@@ -23,11 +23,10 @@
 </div>
 
 ```yaml
-name: "Your Name"
+name: "Sayad Asadova"
 location: "🌍 Azerbaijan, Baku"
 pronouns: "she/her"
-currently_learning: ["TypeScript", "React", "UI/UX Design"]
-hobbies: ["🎨 Designing", "☕ Coffee", "🌸 Aesthetic vibes", "🎵 Lo-fi music"]
+currently_learning: ["React"]
 fun_fact: "My code is like my eyeliner — sharp, precise, and always on point 💅"
 ```
 
@@ -71,10 +70,6 @@ GitHub     █████████████████████  100%
 <div align="center">
 
 ## 📊 GitHub Stats
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true&bg_color=fff0f5&title_color=c9507e&icon_color=e89fc7&text_color=a0527a"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=c9507e&text_color=a0527a"/>
 
 </div>
 
@@ -141,9 +136,8 @@ GitHub     █████████████████████  100%
 
 ## 💌 Let's Connect!
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/sayad-asadova-577908303)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](asadovasayad@gmail.com)
 
 </div>
 
@@ -152,9 +146,7 @@ GitHub     █████████████████████  100%
 <div align="center">
 
 ## 🌺 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
-
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=ff69b4&label=✨+VISITORS" />
 *thanks for stopping by! you're adorable 🌸*
 
 </div>
