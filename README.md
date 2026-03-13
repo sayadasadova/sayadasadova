@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d30000&height=180&section=header&text=Sayad2027%Asadova%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%20Enthusiast%20%7C%20Code%20Craftsman&descAlignY=58&descSize=18&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d30000&height=180&section=header&text=Sayad.Asadova%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%20Enthusiast%20%7C%20Code%20Craftsman&descAlignY=58&descSize=18&descColor=ffffff" />
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD9FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+Tailwind+%7C+SASS+Enthusiast+%F0%9F%8E%A8;Building+Beautiful+UIs+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
