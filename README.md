@@ -20,7 +20,7 @@
 
 ```javascript
 const developer = {
-  name:       "Your Name",
+  name:       "Sayad Asadova",
   role:       "Frontend Developer",
   location:   "Baku, Azerbaijan 🇦🇿",
   passion:    "Turning ideas into pixel-perfect interfaces",
@@ -34,7 +34,7 @@ const developer = {
 - 🔭 Hal-hazırda **real-world frontend proyektləri** üzərində işləyirəm
 - 🌱 **Next.js** və **TypeScript** öyrənirəm
 - 💬 **HTML, CSS, JS, React, Tailwind** haqqında soruşa bilərsiniz
-- 📫 Əlaqə: **your.email@gmail.com**
+- 📫 Əlaqə: **asadovasayad@gmail.com**
 - ⚡ Əyləncəli fakt: Gözəl bir UI dizaynı görəndə saatlarca ona baxa bilirəm 🎨
 
 ---
