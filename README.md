@@ -1,7 +1,19 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D30000&height=180&section=header&text=Hey%20there!%20I'm%20YourName%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20UI%20Enthusiast%20%7C%20Code%20Craftsman&descAlignY=55&descSize=18&descColor=ffffff"/>
+<svg width="100%" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF0000;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#CC0000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" fill="url(#bg)"/>
+  <path d="M0,130 C150,180 350,90 550,140 C700,175 800,120 900,150 L900,180 L0,180 Z" fill="rgba(0,0,0,0.15)"/>
+  <path d="M0,150 C200,110 400,170 600,130 C750,100 850,155 900,140 L900,180 L0,180 Z" fill="rgba(0,0,0,0.10)"/>
+  <text x="450" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">Hey there! I'm YourName 👋</text>
+  <text x="450" y="128" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="rgba(255,255,255,0.92)" text-anchor="middle">Frontend Developer · UI Enthusiast · Code Craftsman</text>
+</svg>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD9FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+Tailwind+%7C+SASS+Enthusiast+%F0%9F%8E%A8;Building+Beautiful+UIs+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
