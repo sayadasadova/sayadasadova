@@ -2,5 +2,5 @@
 <h1><b>Sayad Asadova</b></h1>
 <h3>Frontend Developer</h3>
 </div>
-<img width="50px", height="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGAL5Nrj30aghDHJaNTn99mrWFGhlokg4uhg&s" /> 
+<img align="left" width="50px", height="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGAL5Nrj30aghDHJaNTn99mrWFGhlokg4uhg&s" /> 
 <h3>Full Stack Programming</h3>
