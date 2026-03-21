@@ -1,4 +1,4 @@
-<body color="blue"/>
+
 <div align="center">
 
 <h1><b>Sayad Asadova</b></h1>
