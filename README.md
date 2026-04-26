@@ -20,6 +20,6 @@
 
 </div>
 <div align="center">
-  <img width="200px" height="250px" style="border-radius:50%" src="https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-101123.jpg"/>
+  <img width="200px" height="250px" style="border-radius:50" src="https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-101123.jpg"/>
 </div>
 
