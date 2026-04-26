@@ -5,9 +5,10 @@
 </div>
 <div align="left">
    <img width="400px" height="450px"  src="https://static.vecteezy.com/system/resources/thumbnails/044/448/931/small/cartoon-character-with-the-desk-working-concept-illustration-free-png.png"/>
-</div>
-  <h2>Summury</h2>
+   <h2>Summury</h2>
   <p><b>Sayad Asadova</b></p>
+</div>
+  
 
 <h2>Education</h2>
 <img align="left" width="70px", height="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGAL5Nrj30aghDHJaNTn99mrWFGhlokg4uhg&s" /> 
