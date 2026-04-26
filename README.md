@@ -6,7 +6,10 @@
 <h2>Summury</h2>
 <div align="left">
   <p><b>Sayad Asadova</b>
-  Lorem ispum ispim gvhiuio klkl ghblkok, nuiyolk. fgcyyuiknm vyjhilkko tyfyuihijhi bhhijk ykhuo.
+  Lorem ispum ispim gvhiuio klkl ghblkok, nuiyolk. fgcyyuiknm vyjhilkko tyfyuihijhi bhhijk ykhuo. v
+    bhjkjop'[;[;'[.;/,lkkjj
+    gvhilkil,,,,,,...........
+    hvbnm,,...///////
 </p>
 </div>
 
