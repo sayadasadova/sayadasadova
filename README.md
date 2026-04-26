@@ -33,5 +33,5 @@
 
 <br clear="both">
 <div>
-     <img width="100%" height="350px" src="https://i.pinimg.com/1200x/eb/dc/fe/ebdcfe9871c32a94c8814c2e75c22402.jpg" />
+     <img width="100%" height="350px" src="" />
 </div>
