@@ -19,4 +19,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,react,nodejs&perline=4" />
 
 </div>
+<div align="center">
+  <img src="https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-101123.jpg"/>
+</div>
 
