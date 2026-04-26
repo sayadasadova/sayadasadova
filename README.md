@@ -4,15 +4,14 @@
 <h1><b>Full Stack Developer</b></h1>
 </div>
 <h2>Summury</h2>
-<div align="left">
-  <p><b>Sayad Asadova</b>
+  <p align="left"><b>Sayad Asadova</b>
   Lorem ispum ispim gvhiuio klkl ghblkok, nuiyolk. fgcyyuiknm vyjhilkko tyfyuihijhi bhhijk ykhuo. v
     bhjkjop'[;[;'[.;/,lkkjj
     gvhilkil,,,,,,...........
     hvbnm,,...///////
 </p>
   <img align="right" width="400px" height="450px"  src="https://static.vecteezy.com/system/resources/thumbnails/044/448/931/small/cartoon-character-with-the-desk-working-concept-illustration-free-png.png"/>
-</div>
+
 <h2>Education</h2>
 <img align="left" width="70px", height="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGAL5Nrj30aghDHJaNTn99mrWFGhlokg4uhg&s" /> 
 <h3>Full Stack Programming</h3>
