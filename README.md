@@ -3,6 +3,9 @@
 
 <h1><b>Full Stack Developer</b></h1>
 </div>
+<div align="center">
+  <img width="300px" height="350px"  src="https://static.vecteezy.com/system/resources/thumbnails/044/428/120/small/business-woman-illustration-on-transparent-background-free-png.png"/>
+</div>
 <h2>Education</h2>
 <img align="left" width="70px", height="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGAL5Nrj30aghDHJaNTn99mrWFGhlokg4uhg&s" /> 
 <h3>Full Stack Programming</h3>
