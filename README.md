@@ -33,4 +33,4 @@
 
 </div>
 
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,sass,bootstrap,tailwind)](https://skillicons.dev)
