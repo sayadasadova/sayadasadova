@@ -5,6 +5,7 @@
 </div>
 <h2>Summury</h2>
 <p><b>Sayad Asadova</b>
+  Lorem ispum ispim gvhiuio klkl ghblkok, nuiyolk. fgcyyuiknm vyjhilkko tyfyuihijhi bhhijk ykhuo.
 </p>
 <div align="right">
   <img width="400px" height="450px"  src="https://static.vecteezy.com/system/resources/thumbnails/044/448/931/small/cartoon-character-with-the-desk-working-concept-illustration-free-png.png"/>
