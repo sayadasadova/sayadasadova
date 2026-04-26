@@ -3,6 +3,7 @@
 
 <h1><b>Full Stack Developer</b></h1>
 </div>
+<h2>Education</h2>
 <img align="left" width="70px", height="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGAL5Nrj30aghDHJaNTn99mrWFGhlokg4uhg&s" /> 
 <h3>Full Stack Programming</h3>
 <p>2025-2026</p>
