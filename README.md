@@ -16,7 +16,7 @@
 <img align="left" width="70px", height="80px" src="https://upload.wikimedia.org/wikipedia/az/7/7c/ADPU.jpeg" /> 
 <h3>ADPU - Azerbaijani language and literature teacher</h3>
 <p>2020-2024</p>
-<h2>Programming languages</h2>
+<h2>Technologies</h2>
 
 <table align="left">
   <tr>
