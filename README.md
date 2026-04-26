@@ -32,6 +32,3 @@
 </table>
 
 <br clear="both">
-<div align="center">
-    <img width="100%" height="250px" src="https://i.pinimg.com/474x/8f/e1/b1/8fe1b17175c15cea38c09426f80aeaa6.jpg" />
-</div>
