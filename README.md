@@ -32,3 +32,6 @@
 </table>
 
 <br clear="both">
+<div align="center">
+    <img src="https://img.freepik.com/free-vector/digital-binary-code-matrix-banner-with-falling-numbers-design_1017-54560.jpg" />
+</div>
