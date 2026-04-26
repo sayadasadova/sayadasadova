@@ -10,5 +10,5 @@
 <h3>AI for Good</h3>
 <p>2026</p>
 <img align="left" width="70px", height="80px" src="https://upload.wikimedia.org/wikipedia/az/7/7c/ADPU.jpeg" /> 
-<h3>ADPU <span font-size="35px">Azerbaijani language and literature teacher</span></h3>
+<h3>ADPU <span font-size="15px">Azerbaijani language and literature teacher</span></h3>
 <p>2020-2024</p>
