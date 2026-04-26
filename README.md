@@ -4,7 +4,7 @@
 <h1><b>Full Stack Developer</b></h1>
 </div>
 <h2>Summury</h2>
-<p><b>Sayad Asadova</b>
+<p align="left"><b>Sayad Asadova</b>
   Lorem ispum ispim gvhiuio klkl ghblkok, nuiyolk. fgcyyuiknm vyjhilkko tyfyuihijhi bhhijk ykhuo.
 </p>
 <div align="right">
