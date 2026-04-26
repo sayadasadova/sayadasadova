@@ -4,11 +4,9 @@
 <h1><b>Full Stack Developer</b></h1>
 </div>
 
-  <img align="right" width="400px" height="450px"  src="https://static.vecteezy.com/system/resources/thumbnails/044/448/931/small/cartoon-character-with-the-desk-working-concept-illustration-free-png.png"/>
+  <img align="left" width="400px" height="450px"  src="https://static.vecteezy.com/system/resources/thumbnails/044/448/931/small/cartoon-character-with-the-desk-working-concept-illustration-free-png.png"/>
   <h2>Summury</h2>
-  <p><b>Sayad Asadova</b>
-  
-</p>
+  <p><b>Sayad Asadova</b></p>
 
 <h2>Education</h2>
 <img align="left" width="70px", height="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGAL5Nrj30aghDHJaNTn99mrWFGhlokg4uhg&s" /> 
