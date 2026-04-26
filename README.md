@@ -3,6 +3,14 @@
 
 <h1><b>Full Stack Developer</b></h1>
 </div>
+<div>
+  <h2>Summury</h2>
+<p>Sayad Asadova</p>
+<p>jj</p>
+<div align="right">
+  <img width="400px" height="450px"  src="https://static.vecteezy.com/system/resources/thumbnails/044/448/931/small/cartoon-character-with-the-desk-working-concept-illustration-free-png.png"/>
+</div>
+</div>
 <h2>Summury</h2>
 <p>Sayad Asadova</p>
 <p>jj</p>
